@@ -1,4 +1,4 @@
-# Project: Date
+# Lab: Date
 
 ## OBJECTIVES
 - Implement conditional statements to validate dates.
@@ -17,7 +17,7 @@ The valid day ranges for each month are:
 - 28 or 29 days February (29 if it is a leap year, otherwise 28).
 
 ## Program Specifications
-Declare a class called `Date` with the following parts:
+Create a class called `Date` with the following parts:
 
 ### Part I: Implement Date Validation
 Write a method with the header:
