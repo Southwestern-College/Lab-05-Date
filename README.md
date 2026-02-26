@@ -1,5 +1,5 @@
 # Lab: Date
-
+![Meme of man saying perfect date is year-month-day](.assets/perfect-date.png)
 ## OBJECTIVES
 - Implement conditional statements to validate dates.
 - Use methods to modularize the program.
