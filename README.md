@@ -32,7 +32,7 @@ Write a method with the header:
    public static String toString(int year, int month, int day)
    ```
 - If the date is valid, return a formatted string in the **YYYY-MM-DD** format, ensuring **zero-padding** where necessary (e.g., `1776-07-04`).
-- If the date is invalid, return the string `"invalid"`.
+- If the date is invalid, return the string `"invalid date"`.
 
 ### Part III: Convert Month to String
 Write a method with the header:
