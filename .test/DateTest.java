@@ -44,9 +44,9 @@ class DateTest {
     }
 
     @Test
-    @DisplayName("toString() should return 'invalid' for invalid date (Feb 29, 2023)")
+    @DisplayName("toString() should return 'invalid date' for invalid date (Feb 29, 2023)")
     void toString_invalidDate_returnsInvalid() {
-        assertEquals("invalid", Date.toString(2023, 2, 29));
+        assertEquals("invalid date", Date.toString(2023, 2, 29));
     }
 
 
