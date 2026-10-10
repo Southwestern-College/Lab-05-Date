@@ -44,7 +44,7 @@ Write a method with the header:
 
 ### Part IV: Testing the `Date` Class
 
-To ensure your `Date` class functions correctly, you must write a comprehensive tester class. Declare a class named `TestDate` with the following features:
+To ensure your `Date` class functions correctly, you must write a comprehensive tester class. Declare a class named `DateTest` with the following features:
 - Test multiple test cases, including boundary values (e.g., leap years, February 29, invalid months, and negative years).
 - Call each method in the `Date` class and verify that the output matches expected results.
 - Print clear messages indicating whether each test case passes or fails.
